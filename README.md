@@ -1,2 +1,0 @@
-# OPENAI
-AI instructions 
