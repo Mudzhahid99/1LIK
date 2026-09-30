@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mudzhahid99.github.io/1LIK/sitemap.xml
