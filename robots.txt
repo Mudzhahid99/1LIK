@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mudzhahid99.github.io/OPENAI/sitemap.xml
